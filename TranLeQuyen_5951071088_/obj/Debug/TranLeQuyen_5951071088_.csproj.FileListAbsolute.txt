@@ -1,0 +1,10 @@
+E:\Cntt Năm 3\C#\src\TranLeQuyen_5951071088_\TranLeQuyen_5951071088_\bin\Debug\TranLeQuyen_5951071088_.exe.config
+E:\Cntt Năm 3\C#\src\TranLeQuyen_5951071088_\TranLeQuyen_5951071088_\bin\Debug\TranLeQuyen_5951071088_.exe
+E:\Cntt Năm 3\C#\src\TranLeQuyen_5951071088_\TranLeQuyen_5951071088_\bin\Debug\TranLeQuyen_5951071088_.pdb
+E:\Cntt Năm 3\C#\src\TranLeQuyen_5951071088_\TranLeQuyen_5951071088_\obj\Debug\TranLeQuyen_5951071088_.csprojAssemblyReference.cache
+E:\Cntt Năm 3\C#\src\TranLeQuyen_5951071088_\TranLeQuyen_5951071088_\obj\Debug\TranLeQuyen_5951071088_.Form1.resources
+E:\Cntt Năm 3\C#\src\TranLeQuyen_5951071088_\TranLeQuyen_5951071088_\obj\Debug\TranLeQuyen_5951071088_.Properties.Resources.resources
+E:\Cntt Năm 3\C#\src\TranLeQuyen_5951071088_\TranLeQuyen_5951071088_\obj\Debug\TranLeQuyen_5951071088_.csproj.GenerateResource.cache
+E:\Cntt Năm 3\C#\src\TranLeQuyen_5951071088_\TranLeQuyen_5951071088_\obj\Debug\TranLeQuyen_5951071088_.csproj.CoreCompileInputs.cache
+E:\Cntt Năm 3\C#\src\TranLeQuyen_5951071088_\TranLeQuyen_5951071088_\obj\Debug\TranLeQuyen_5951071088_.exe
+E:\Cntt Năm 3\C#\src\TranLeQuyen_5951071088_\TranLeQuyen_5951071088_\obj\Debug\TranLeQuyen_5951071088_.pdb
